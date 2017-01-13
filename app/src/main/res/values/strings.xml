@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CU Cab Tracker</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation">Map</string>
+    <string name="mylocation_button">My Location Button</string>
+    <string name="mylocation_layer">My Location Layer</string>
+    <string name="map_not_ready">Map is not ready yet</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">
+        Access to the location service is required to use this feature,
+        which shows your current location on the map.
+    </string>
+    <string name="location_permission_denied">This app requires location permission to enable the \'my location\' layer.
+        Please try again and grant access to use the location.\nIf the permission has been permanently denied,
+        it can be enabled from the System Settings &gt; Apps &gt; .
+    </string>
+    <string name="permission_required_toast">Location permission is required for this app.</string>
+</resources>
